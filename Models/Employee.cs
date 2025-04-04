@@ -1,0 +1,9 @@
+public class Employee
+{
+    public int Id { get; set; }
+    public string EmployeeName { get; set; }
+    public decimal EmployeeSalary { get; set; }
+    public int EmployeeAge { get; set; }
+    public string ProfileImage { get; set; }
+    public decimal EmployeeAnnualSalary => EmployeeSalary * 12;
+}

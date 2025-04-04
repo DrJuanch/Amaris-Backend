@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wV05Wr4JSjEW9VTUaGkMqonMFaZnEMbKBRUjSisITMc=",
+  "Source": "AmarisTestBackend",
+  "BasePath": "_content/AmarisTestBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
